@@ -1,0 +1,7 @@
+/.idea/
+/private/
+/storage/
+/*.iml
+.idea
+doc/
+logs/
